@@ -1,0 +1,22 @@
+@media screen and (max-width = 768px){
+    .header {
+        width: 768px;
+    }
+
+    .name {
+        width: 382px;
+        display: inline;
+        font-size: 25px;
+        font-weight: 500;
+        margin: 0 0 0 20px;
+    }
+
+    .navigation {
+        width: 382px;
+        font-size: 20px;
+    }
+
+    .nav {
+        margin: 0;
+    }
+}
